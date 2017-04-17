@@ -62,7 +62,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F9%2Fn8792816.htm&from=wnel">◆【特稿】共产主义不是出路而是绝路</a><br/>
   </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td><br/>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/共产邪灵.jpg" /></td><br/>
   </tr>
   <tr>
       <td align=left>
@@ -73,7 +73,9 @@
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/共产邪灵.jpg" /></td>
+  </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
   </tr>
   <tr>
 <td align=left>
