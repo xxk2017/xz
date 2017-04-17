@@ -51,7 +51,7 @@
 了解西藏与达赖喇嘛真实的历史<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
-  </tr>
+  </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
   </tr>
