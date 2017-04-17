@@ -149,6 +149,7 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
+推荐谷歌、火狐浏览器，国产浏览器易干扰<br/>
   </tr>
   <tr>
 <td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
