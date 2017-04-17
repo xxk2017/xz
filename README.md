@@ -6,13 +6,10 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
   </tr>
   <tr>
-      <td align=center>
+<td align=center>
+◆◆共产党百年真相◆◆<br/>
+◆◆中共迫害宗教、迫害西藏◆◆<br/>
 点下方网址，如打开慢，缓冲稍等或刷新<br/> 
-  </tr>
-  <tr>
- <td align=center>
- * ◆◆共产党百年真相◆◆<br/>
- * ◆◆中共迫害宗教、迫害西藏◆◆<br/>
    </tr>
   <tr>
  <td align=left>
@@ -43,7 +40,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F5%2F20%2Fn4438579.htm&from=wnel
 ">◆《西藏白皮书》，中南海的标题学</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F14%2F8%2F30%2Fn4236773.htm&from=wnel
-">◆西藏高原生态毁灭性破坏的后果是什么？</a><br/>
+">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
