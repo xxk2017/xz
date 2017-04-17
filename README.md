@@ -14,34 +14,42 @@
   <tr>
  <td align=left>
 点下方网址，如打开慢，缓冲稍等或刷新<br/> 
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F3%2Fn8870896.htm&from=wnel">◆藏民大规模反抗中共的背后原因</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F26%2Fn8850163.htm&from=wnel">◆上七万言书后坐监十年 十世班禅被毒杀
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F3%2Fn8870896.htm&from=wnel-tibet">◆藏民大规模反抗中共的背后原因</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F26%2Fn8850163.htm&from=wnel-tibet">◆上七万言书后坐监十年 十世班禅被毒杀
 </a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F27%2Fn8855307.htm&from=wnel">◆摧残西藏文化 大昭寺作猪圈上师被批斗</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F9%2F4%2F4%2Fn2485125.htm&from=wnel">◆中共的班禅</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F11%2F9%2F27%2Fn3384356.htm&from=wnel">◆达赖称将来是否转世 中共无权干涉！</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F9%2F3%2F11%2Fn2458116.htm&from=wnel">◆西藏简要受难史重温</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F4%2F5%2Fn9004927.htm&from=wnel">◆关于西藏和达赖的最客观的评价</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F9%2F14%2Fn8300895.htm&from=wnel">◆达赖喇嘛 站立在世界舞台的中心</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F6%2F21%2Fn8018837.htm&from=wnel">◆中国政府怕达赖喇嘛什么？</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F4%2F24%2Fn7685896.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F27%2Fn8855307.htm&from=wnel-tibet">◆摧残西藏文化 大昭寺作猪圈上师被批斗</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F9%2F4%2F4%2Fn2485125.htm&from=wnel-tibet">◆中共的班禅</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F11%2F9%2F27%2Fn3384356.htm&from=wnel-tibet">◆达赖称将来是否转世 中共无权干涉！</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F9%2F3%2F11%2Fn2458116.htm&from=wnel-tibet">◆西藏简要受难史重温</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F4%2F5%2Fn9004927.htm&from=wnel-tibet">◆关于西藏和达赖的最客观的评价</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F9%2F14%2Fn8300895.htm&from=wnel-tibet">◆达赖喇嘛 站立在世界舞台的中心</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F6%2F21%2Fn8018837.htm&from=wnel-tibet">◆中国政府怕达赖喇嘛什么？</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F4%2F24%2Fn7685896.htm&from=wnel-tibet
 ">◆藏地汉人掌权</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F4%2F24%2Fn7683448.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F4%2F24%2Fn7683448.htm&from=wnel-tibet
 ">◆藏人颠沛流离，中共为始作俑者</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F1%2F20%2Fn4621246.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F1%2F20%2Fn4621246.htm&from=wnel-tibet
 ">◆中共无限期延长西藏监控计划</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F2%2F4%2Fn4358335.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F2%2F4%2Fn4358335.htm&from=wnel-tibet
 ">◆藏人自焚：圣火中的凤凰</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F2%2F5%2Fn4360082.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F2%2F5%2Fn4360082.htm&from=wnel-tibet
 ">◆西藏现状比想像中更为严重</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F11%2F30%2Fn4584584.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F11%2F30%2Fn4584584.htm&from=wnel-tibet
 ">◆西藏人在中国努力拯救逝去的文化</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F7%2F14%2Fn4480456.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F7%2F14%2Fn4480456.htm&from=wnel-tibet
 ">◆西藏僧侣丹增德勒仁波切死于中国监狱</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F5%2F20%2Fn4438579.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F5%2F20%2Fn4438579.htm&from=wnel-tibet
 ">◆《西藏白皮书》，中南海的标题学</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F14%2F8%2F30%2Fn4236773.htm&from=wnel
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F14%2F8%2F30%2Fn4236773.htm&from=wnel-tibet
 ">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
+  </tr>
+  <tr>
+<td align=left>好莱坞大片◆西藏七年◆<br/>
+<br/>了解西藏与达赖喇嘛真实的历史<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
+如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
