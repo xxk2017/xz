@@ -48,6 +48,9 @@
 了解西藏与达赖喇嘛真实的历史<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏七年.jpg" /></td><br/>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
@@ -82,8 +85,6 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c812504&from=wnel">◆◆共产主义是世界上最大邪教</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813248&from=wnel
 ">◆◆马列主义是毒药</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
-如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
