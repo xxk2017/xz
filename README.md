@@ -10,9 +10,12 @@
 点下方网址，如打开慢，缓冲稍等或刷新<br/> 
   </tr>
   <tr>
-<td align=left>
- * 【共产党百年真相】<br/>
- * 【中共迫害宗教、迫害西藏】<br/>
+ <td align=center>
+ * ◆◆共产党百年真相◆◆<br/>
+ * ◆◆中共迫害宗教、迫害西藏◆◆<br/>
+   </tr>
+  <tr>
+ <td align=left>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F3%2Fn8870896.htm&from=wnel">◆藏民大规模反抗中共的背后原因</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F26%2Fn8850163.htm&from=wnel">◆上七万言书后坐监十年 十世班禅被毒杀
 </a><br/>
