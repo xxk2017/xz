@@ -9,8 +9,12 @@
 <td align=center>
 ◆◆共产党百年真相◆◆<br/>
 ◆◆中共迫害宗教、迫害西藏◆◆<br/>
-
    </tr>
+  <tr>
+   <td align=center>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
+  </tr>
   <tr>
  <td align=left>
 点下方网址，如打开慢，缓冲稍等或刷新<br/> 
