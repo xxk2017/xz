@@ -44,12 +44,10 @@
 ">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
   </tr>
   <tr>
-<td align=left>好莱坞大片◆西藏七年◆<br/>
-<br/>了解西藏与达赖喇嘛真实的历史<br/>
+<td align=center>好莱坞大片◆西藏七年◆<br/>
+了解西藏与达赖喇嘛真实的历史<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
-  </tr>
-  <tr>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
