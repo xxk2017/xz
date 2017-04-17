@@ -50,7 +50,7 @@
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏七年.jpg" /></td><br/>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
