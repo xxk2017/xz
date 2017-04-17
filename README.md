@@ -3,7 +3,7 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏布达拉宫.jpg" /></td>
   </tr>
   <tr>
 <td align=center>
@@ -42,6 +42,9 @@
 ">◆《西藏白皮书》，中南海的标题学</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F14%2F8%2F30%2Fn4236773.htm&from=wnel-tibet
 ">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
+  </tr>
+  <tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
   </tr>
   <tr>
 <td align=center>好莱坞大片◆西藏七年◆<br/>
@@ -51,6 +54,9 @@
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
+  </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
