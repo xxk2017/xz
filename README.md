@@ -1,9 +1,9 @@
 <table>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏布达拉宫.jpg" /></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏布达拉宫.jpg" /></td>
   </tr>
   <tr>
 <td align=center>
@@ -11,9 +11,7 @@
 ◆◆中共迫害宗教、迫害西藏◆◆<br/>
    </tr>
   <tr>
-   <td align=center>
-微信如果提示：停止访问该网页<br/>
-请点击右上角，选择浏览器打开<br/>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
   </tr>
   <tr>
  <td align=left>
@@ -55,6 +53,8 @@
 了解西藏与达赖喇嘛真实的历史<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
@@ -77,6 +77,8 @@
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
@@ -102,6 +104,8 @@
    <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
   </tr>
   <tr>
   </tr>
@@ -166,6 +170,7 @@
   <tr>
     <td align=center>
 <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条</a><br/>
+    </td>
   </tr>
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
@@ -174,4 +179,6 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
   </tr>
   <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
+
 </table>    
