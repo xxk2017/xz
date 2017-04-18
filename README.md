@@ -99,17 +99,6 @@
 ">◆◆马列主义是毒药</a><br/>
   </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
-  <tr>
-   <td align=center>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
-如打开慢，缓冲稍等或刷新<br/>
-微信如果提示：停止访问该网页<br/>
-请点击右上角，选择浏览器打开<br/>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3t.jpg"/></td><br/>
   </tr>
   <tr>
