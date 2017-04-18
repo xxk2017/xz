@@ -106,6 +106,8 @@
 全球近3亿人的幸运选择，珍贵机缘<br/>
 为你而来，这一次您千万别再错过～<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
@@ -113,6 +115,8 @@
   <tr>
    <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
