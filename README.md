@@ -17,12 +17,12 @@ https://unseen.is/index-cn.html <br/>
 （需要翻墙，全球最佳） <br/>
   </tr>
   <tr>
-<td align=center>2017藏人翻墙最人气网站<br/>      
-网门 https://git.io/ogate<br/>  
-请收藏手机/电脑浏览器中<br/>
-2017藏人翻墙最人气软件<br/>
-安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-下载安卓版更快更方便<br/>
+<td align=left>◆2017藏人翻墙最人气网站<br/>      
+◆网门 https://git.io/ogate<br/>  
+◆请收藏手机/电脑浏览器中<br/>
+◆2017藏人翻墙最人气软件<br/>
+◆安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+◆下载安卓版更快更方便<br/>
   </tr>
   <tr>
  <tr>
