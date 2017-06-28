@@ -79,18 +79,6 @@
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fjiaodianzhuizong%2Fxizang&from=wnel">请点击看藏地中文资讯</a></td>
 </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
-  </tr>
-  <tr>
-<td align=center>好莱坞大片◆西藏七年◆<br/>
-了解西藏与达赖喇嘛真实的历史<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
-如打开慢，缓冲稍等或刷新<br/>
-微信如果提示：停止访问该网页<br/>
-请点击右上角，选择浏览器打开<br/>
-苹果用户复制到自带浏览器打开<br/>
-  </tr>
-  <tr>
 <td align=left>
 ◆本页面短网址：<br/>
 https://git.io/vQc9s （请收藏）<br/>
@@ -108,7 +96,19 @@ https://bbm.cn.uptodown.com/iphone <br/>
 https://unseen.is/index-cn.html <br/>
 （需要翻墙，全球最佳） <br/>
   </tr>
-  <tr>  
+  <tr>    
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
+  </tr>
+  <tr>
+<td align=center>好莱坞大片◆西藏七年◆<br/>
+了解西藏与达赖喇嘛真实的历史<br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
+如打开慢，缓冲稍等或刷新<br/>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
+  </tr>
+  <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
   </tr>
   <tr>
