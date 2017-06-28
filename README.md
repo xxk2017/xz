@@ -47,11 +47,12 @@
   <tr>
 <td align=center>◆◆◆自由亚洲电台少数民族◆◆◆<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fyataibaodao%2Fshaoshuminzu&from=wnel">请点击看少数民族资讯</a><br/>
-<td align=center>◆◆◆藏区形势（中文）◆◆◆<br/>
-https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fjiaodianzhuizong%2Fxizang&from=wnel>请点击看藏地中文资讯</a><br/>
 <td align=center>◆◆◆藏区形势（藏语）◆◆◆<br/>
-https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Ftibetan
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Ftibetan
 &from=wnel>请点击看藏地藏语资讯</a><br/>
+<td align=center>◆◆◆藏区形势（中文）◆◆◆<br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fjiaodianzhuizong%2Fxizang&from=wnel>请点击看藏地中文资讯</a><br/>
+
 </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
