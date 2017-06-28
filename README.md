@@ -1,13 +1,15 @@
 <table>
-<td align=left>前言
-本页面短网址：https://git.io/vQc9s （请收藏）<br/>
-安卓用户推荐谷歌浏览器<br/>
+<td align=left>
+◆本页面短网址：https://git.io/vQc9s （请收藏）<br/>
+◆安卓用户推荐谷歌浏览器<br/>
 https://chrome.cn.uptodown.com/android （安卓版） <br/>
 https://google-chrome-portable.cn.uptodown.com/windows （电脑版）<br/>
-大陆浏览器监控隐私，干扰正常浏览，请卸载<br/>
-藏族同胞，建议使用bbm联系，更安全<br/>
-https://bbm.cn.uptodown.com/android （BBM聊天软件）<br/>
-  </tr>
+◆国产浏览器监控隐私，干扰正常浏览，请卸载<br/>
+◆藏族同胞，使用bbm和unseen联系，更安全<br/>
+https://bbm.cn.uptodown.com/android （安卓bbm 不需翻墙）<br/>
+https://bbm.cn.uptodown.com/iphone （苹果bbm 不需翻墙）<br/>
+https://unseen.is/index-cn.html （需要翻墙） 
+  </tr>
   <tr>
       <td align=center>
 2017藏人翻墙最人气网站<br/>      
