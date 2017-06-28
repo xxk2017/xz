@@ -43,7 +43,9 @@
 ">◆《西藏白皮书》，中南海的标题学</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F14%2F8%2F30%2Fn4236773.htm&from=wnel-tibet
 ">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
-  </tr>
+<td align=center>◆◆◆藏区局势◆◆◆
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fyataibaodao%2Fshaoshuminzu&from=wnel">请点击看最新藏地资讯</a><br/>
+</tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
   </tr>
