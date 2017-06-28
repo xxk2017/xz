@@ -18,7 +18,7 @@ https://unseen.is/index-cn.html <br/>
   </tr>
   <tr>
 <td align=center>2017藏人翻墙最人气网站<br/>      
-网门网址 https://git.io/ogate<br/>  
+<td align=center>网门网址 https://git.io/ogate<br/>  
 请收藏手机（电脑）浏览器中<br/>
 2017藏人翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
