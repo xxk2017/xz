@@ -46,17 +46,23 @@
    </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2.jpg" /></td>
+   </tr>
+  <tr>
 <td align=center>◆◆◆自由亚洲电台少数民族◆◆◆<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fyataibaodao%2Fshaoshuminzu&from=wnel">请点击看少数民族资讯</a></td>
    </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2_%E8%97%8F%E6%96%87.jpg" /></td>
+   </tr>
+  <tr>
 <td align=center>◆◆◆藏区形势（藏语）◆◆◆<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Ftibetan
 &from=wnel">请点击看藏地藏语资讯</a></td>
    </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2_%E4%B8%AD%E6%96%87.jpg" /></td>
+   </tr>
+  <tr>
 <td align=center>◆◆◆藏区形势（中文）◆◆◆<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fjiaodianzhuizong%2Fxizang&from=wnel">请点击看藏地中文资讯</a></td>
 </tr>
