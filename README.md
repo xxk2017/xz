@@ -5,12 +5,13 @@
 https://chrome.cn.uptodown.com/android （安卓版） <br/>
 https://google-chrome-portable.cn.uptodown.com/windows （电脑版）<br/>
 大陆浏览器监控隐私，干扰正常浏览，请卸载<br/>
-网门网址 https://git.io/ogate  请收藏浏览器<br/>
 藏族同胞，建议使用bbm联系，更安全<br/>
 https://bbm.cn.uptodown.com/android （BBM聊天软件）<br/>
   </tr>
   <tr>
       <td align=center>
+2017藏人翻墙最人气网站<br/>      
+网门网址 https://git.io/ogate  请收藏浏览器<br/>
 2017藏人翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 下载安卓版更快更方便<br/>
