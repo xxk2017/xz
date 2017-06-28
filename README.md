@@ -11,7 +11,7 @@ https://bbm.cn.uptodown.com/android （BBM聊天软件）<br/>
   <tr>
       <td align=center>
 2017藏人翻墙最人气网站<br/>      
-网门网址 https://git.io/ogate  请收藏浏览器<br/>
+网门网址 https://git.io/ogate 收藏浏览器<br/>
 2017藏人翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 下载安卓版更快更方便<br/>
