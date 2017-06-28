@@ -9,8 +9,10 @@ https://google-chrome-portable.cn.uptodown.com/windows <br/>
 （谷歌浏览器电脑版）<br/>
 ◆国产浏览器监控干扰，请卸载<br/>
 ◆藏人用bbm和unseen联系，更安全<br/>
-https://bbm.cn.uptodown.com/android （安卓bbm 不需翻墙）<br/>
-https://bbm.cn.uptodown.com/iphone （苹果bbm 不需翻墙）<br/>
+https://bbm.cn.uptodown.com/android <br/>
+（安卓bbm 不需翻墙）<br/>
+https://bbm.cn.uptodown.com/iphone <br/>
+（苹果bbm 不需翻墙）<br/>
 https://unseen.is/index-cn.html <br/>
 （需要翻墙，全球最佳） <br/>
   </tr>
