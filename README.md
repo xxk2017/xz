@@ -2,13 +2,13 @@
 <td align=left>◆2017藏人翻墙最人气网站<br/>
 ◆网门 https://git.io/ogate<br/>
 ◆请收藏手机/电脑浏览器中<br/>
-◆推荐谷歌/火狐浏览器，勿用国产<br/>
+◆推荐使用谷歌/火狐浏览器
+◆国产浏览器监控干扰，请卸载
 ◆2017藏人翻墙最人气软件<br/>
 ◆安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载安卓版更快更方便<br/>
   </tr>
   <tr>
- <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ https://bbm.cn.uptodown.com/android <br/>
 https://bbm.cn.uptodown.com/iphone <br/>
 （苹果bbm 不需翻墙）<br/>
 https://unseen.is/index-cn.html <br/>
-（需要翻墙，全球最佳） <br/>
+（需要翻墙，全球最佳）<br/>
   </tr>
   <tr>    
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
