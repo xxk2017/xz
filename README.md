@@ -1,5 +1,6 @@
 <table>
-  <tr>
+<td align=left>本页面短网址：https://git.io/vQc9s（请收藏）
+ <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
   </tr>
   <tr>
