@@ -8,7 +8,7 @@ https://google-chrome-portable.cn.uptodown.com/windows （电脑版）<br/>
 ◆藏族同胞，使用bbm和unseen联系，更安全<br/>
 https://bbm.cn.uptodown.com/android （安卓bbm 不需翻墙）<br/>
 https://bbm.cn.uptodown.com/iphone （苹果bbm 不需翻墙）<br/>
-https://unseen.is/index-cn.html （需要翻墙） 
+https://unseen.is/index-cn.html （需要翻墙，全球最佳） 
   </tr>
   <tr>
       <td align=center>
