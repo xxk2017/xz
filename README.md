@@ -3,9 +3,10 @@
 ◆本页面短网址：<br/>
 https://git.io/vQc9s （请收藏）<br/>
 ◆安卓用户推荐谷歌浏览器<br/>
-https://chrome.cn.uptodown.com/android （安卓版） <br/>
+https://chrome.cn.uptodown.com/android <br/>
+（谷歌浏览器安卓版） <br/>
 https://google-chrome-portable.cn.uptodown.com/windows <br/>
-（电脑版）<br/>
+（谷歌浏览器电脑版）<br/>
 ◆国产浏览器监控干扰，请卸载<br/>
 ◆藏人用bbm和unseen联系，更安全<br/>
 https://bbm.cn.uptodown.com/android （安卓bbm 不需翻墙）<br/>
