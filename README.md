@@ -1,22 +1,4 @@
 <table>
-<td align=left>
-◆本页面短网址：<br/>
-https://git.io/vQc9s （请收藏）<br/>
-◆安卓用户推荐谷歌浏览器<br/>
-https://chrome.cn.uptodown.com/android <br/>
-（谷歌浏览器安卓版） <br/>
-https://google-chrome-portable.cn.uptodown.com/windows <br/>
-（谷歌浏览器电脑版）<br/>
-◆国产浏览器监控干扰，请卸载<br/>
-◆藏人用bbm和unseen联系，更安全<br/>
-https://bbm.cn.uptodown.com/android <br/>
-（安卓bbm 不需翻墙）<br/>
-https://bbm.cn.uptodown.com/iphone <br/>
-（苹果bbm 不需翻墙）<br/>
-https://unseen.is/index-cn.html <br/>
-（需要翻墙，全球最佳） <br/>
-  </tr>
-  <tr>
 <td align=left>◆2017藏人翻墙最人气网站<br/>
 ◆网门 https://git.io/ogate<br/>
 ◆请收藏手机/电脑浏览器中<br/>
@@ -109,6 +91,24 @@ https://unseen.is/index-cn.html <br/>
 苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
+<td align=left>
+◆本页面短网址：<br/>
+https://git.io/vQc9s （请收藏）<br/>
+◆安卓用户推荐谷歌浏览器<br/>
+https://chrome.cn.uptodown.com/android <br/>
+（谷歌浏览器安卓版） <br/>
+https://google-chrome-portable.cn.uptodown.com/windows <br/>
+（谷歌浏览器电脑版）<br/>
+◆国产浏览器监控干扰，请卸载<br/>
+◆藏人用bbm和unseen联系，更安全<br/>
+https://bbm.cn.uptodown.com/android <br/>
+（安卓bbm 不需翻墙）<br/>
+https://bbm.cn.uptodown.com/iphone <br/>
+（苹果bbm 不需翻墙）<br/>
+https://unseen.is/index-cn.html <br/>
+（需要翻墙，全球最佳） <br/>
+  </tr>
+  <tr>  
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
   </tr>
   <tr>
