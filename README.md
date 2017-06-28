@@ -1,12 +1,13 @@
 <table>
-<td align=left>本页面短网址：https://git.io/vQc9s （请收藏）<br/>
-推荐谷歌浏览器：
+<td align=left>前言
+本页面短网址：https://git.io/vQc9s （请收藏）<br/>
+安卓用户推荐谷歌浏览器<br/>
 https://chrome.cn.uptodown.com/android （安卓版） <br/>
 https://google-chrome-portable.cn.uptodown.com/windows （电脑版）<br/>
-大陆浏览器监控隐私，干扰正常浏览，请卸载。
-网门网址 https://git.io/ogate  请收藏浏览器
-藏族同胞，建议使用bbm联系，更安全。
-https://bbm.cn.uptodown.com/android （BBM聊天软件）
+大陆浏览器监控隐私，干扰正常浏览，请卸载<br/>
+网门网址 https://git.io/ogate  请收藏浏览器<br/>
+藏族同胞，建议使用bbm联系，更安全<br/>
+https://bbm.cn.uptodown.com/android （BBM聊天软件）<br/>
   </tr>
   <tr>
       <td align=center>
