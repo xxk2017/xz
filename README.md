@@ -1,5 +1,9 @@
 <table>
-<td align=left>本页面短网址：https://git.io/vQc9s（请收藏）
+<td align=left>本页面短网址：https://git.io/vQc9s （请收藏）<br/>
+推荐谷歌浏览器：
+https://chrome.cn.uptodown.com/android （安卓版） <br/>
+https://google-chrome-portable.cn.uptodown.com/windows （电脑版）<br/>
+大陆浏览器监控隐私，干扰正常浏览，请卸载。
  <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
   </tr>
