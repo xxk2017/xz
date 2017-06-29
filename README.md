@@ -1,5 +1,8 @@
 <table>
   <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
+  </tr>
+  <tr>
 <td align=left>◆2017藏人翻墙最人气网站<br/>
 ◆网门 https://git.io/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
@@ -97,7 +100,7 @@ https://bbm.cn.uptodown.com/iphone <br/>
 （苹果bbm 不需翻墙）<br/>
 https://unseen.is/index-cn.html <br/>
 （需要翻墙，全球安全最佳）<br/>
-unseen适合苹果、安卓、平板、电脑各终端<br/>
+unseen适合苹果、安卓、平板、电脑终端<br/>
 ◆mega海外安全加密免费50G网盘<br/>
 <a href="https://mega.cn.uptodown.com/android">mega安卓版网盘（不需翻墙）</a><br/>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版mega网盘（不需翻墙）</a><br/>
