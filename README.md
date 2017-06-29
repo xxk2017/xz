@@ -100,7 +100,7 @@ https://unseen.is/index-cn.html <br/>
 unseen适合苹果、安卓、平板、电脑各终端<br/>
 ◆mega海外安全加密免费50G网盘<br/>
 <a href="https://mega.cn.uptodown.com/android">mega安卓版网盘</a><br/>
-<a href="https://mega.nz/">mega电脑网页版-大陆需翻墙</a><br/>
+<a href="https://mega.nz/">mega电脑网页版（大陆需翻墙）</a><br/>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版mega网盘</a><br/>
 手机版mega，不需翻墙，可以直接使用<br/>
 ◆藏人可用mega网盘安全分享<br/>
