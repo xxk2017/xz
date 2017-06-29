@@ -6,9 +6,9 @@
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
 ◆推荐使用谷歌或火狐浏览器<br/>
-<a href="https://chrome.cn.uptodown.com/android">安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://chrome.cn.uptodown.com/android">安卓版 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版 </a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版 </a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017藏人翻墙最人气软件网门<br/>
@@ -103,8 +103,7 @@ https://mega.cn.uptodown.com/android<br/>
 （mega安卓版）<br/>
 https://mega.nz/<br/>
 （mega电脑网页版）<br/>
-https://itunes.apple.com/app/mega/id706857885<br/>
-（苹果用户请在苹果应用中搜索mega下载）<br/>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版mega网盘</a>
 ◆藏人可用mega网盘安全分享
 ◆百度网盘被扫描监控请弃用
   </tr>
