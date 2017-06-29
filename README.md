@@ -17,6 +17,7 @@
 ◆2017藏人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
+◆本页 https://git.io/vQc9s （请收藏）<br/>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
@@ -91,21 +92,15 @@
 </tr>
   <tr>
 <td align=left>
-◆本页面短网址：<br/>
-https://git.io/vQc9s （请收藏）<br/>
-◆安卓用户推荐谷歌浏览器<br/>
-https://chrome.cn.uptodown.com/android <br/>
-（谷歌浏览器安卓版） <br/>
-https://google-chrome-portable.cn.uptodown.com/windows <br/>
-（谷歌浏览器电脑版）<br/>
-◆国产浏览器监控干扰，请卸载<br/>
+◆藏人常用聊天安全软件推荐<br/>
 ◆藏人用bbm和unseen联系，更安全<br/>
 https://bbm.cn.uptodown.com/android <br/>
 （安卓bbm 不需翻墙）<br/>
 https://bbm.cn.uptodown.com/iphone <br/>
 （苹果bbm 不需翻墙）<br/>
 https://unseen.is/index-cn.html <br/>
-（需要翻墙，全球最佳）<br/>
+（需要翻墙，全球安全最佳）<br/>
+unseen适合苹果、安卓、平板、电脑各终端<br/>
   </tr>
   <tr>    
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
