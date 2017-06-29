@@ -209,7 +209,7 @@ https://unseen.is/index-cn.html <br/>
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌/火狐浏览器，国产浏览器易干扰<br/>
+推荐谷歌/火狐浏览器，国产浏览器干扰<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -217,11 +217,11 @@ https://unseen.is/index-cn.html <br/>
        </td>
   </tr>
   <tr>
-<td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
+<td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
   </tr>
   <tr>
     <td align=center>
-如打开慢，缓冲稍等或刷新<br/>
+如打开缓慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
