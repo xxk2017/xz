@@ -101,6 +101,13 @@ https://bbm.cn.uptodown.com/iphone <br/>
 https://unseen.is/index-cn.html <br/>
 （需要翻墙，全球安全最佳）<br/>
 unseen适合苹果、安卓、平板、电脑各终端<br/>
+◆mega海外安全加密免费50G网盘<br/>
+https://mega.cn.uptodown.com/android<br/>
+（mega安卓版）<br/>
+https://mega.nz/<br/>
+（mega电脑网页版）<br/>
+◆藏人可用mega网盘安全分享
+◆百度网盘被监控请弃用
   </tr>
   <tr>    
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
