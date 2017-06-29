@@ -106,6 +106,8 @@ https://mega.cn.uptodown.com/android<br/>
 （mega安卓版）<br/>
 https://mega.nz/<br/>
 （mega电脑网页版）<br/>
+https://mega.nz/ios<br/>
+（苹果用户请在苹果应用中搜索mega下载）<br/>
 ◆藏人可用mega网盘安全分享
 ◆百度网盘被监控请弃用
   </tr>
