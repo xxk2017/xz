@@ -1,8 +1,8 @@
 <table>
-  <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
-  </tr>
-  <tr>
+<tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
+</tr>
+<tr>
 <td align=left>◆2017藏人翻墙最人气网站<br/>
 ◆网门 https://git.io/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
@@ -107,11 +107,11 @@ unseen适合苹果、安卓、平板、电脑终端<br/>
 <a href="https://mega.nz/">网页版mega网盘（需要翻墙）</a><br/>
 ◆藏人可用mega网盘安全分享<br/>
 ◆百度网盘被扫描监控请弃用<br/>
-  </tr>
-  <tr>    
+</tr>
+<tr>    
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
-  </tr>
-  <tr>
+</tr>
+<tr>
 <td align=center>好莱坞大片◆西藏七年◆<br/>
 了解西藏与达赖喇嘛真实的历史<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
