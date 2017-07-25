@@ -1,19 +1,23 @@
 <table>
   <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
+  </tr>
+  <tr>
+<td align=left>本页短网址：https://git.io/vQgT9 <br/>
+❤翻墙永久网址：https://git.io/ogate <br/>
+本页如屏蔽，请将网址输入谷歌浏览器<br/>
+苹果用户请输入网址到苹果浏览器打开<br/>
+网民必备浏览器：谷歌浏览器（请安装）<br/>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
+<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
+<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
+国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
+</tr>
+<tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
-<td align=left>◆2017藏人翻墙最人气网站<br/>
-◆网门 https://git.io/ogate<br/>
-◆请收藏到手机和电脑浏览器中<br/>
-◆适合苹果、安卓、平板、电脑<br/>
-◆其中安卓用户与电脑用户<br/>
-◆推荐使用谷歌或火狐浏览器<br/>
-<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、</a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、</a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
-<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017藏人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
