@@ -101,7 +101,7 @@
 如打开慢，缓冲稍等或刷新<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Fmandarin%2Fjiaodianzhuizong%2Fxizang&from=wnel">请点击看藏地中文资讯</a></td>
 </tr>
-  <tr>
+<tr>
 <td align=left>
 ◆藏人常用聊天安全软件推荐<br/>
 ◆藏人用bbm和unseen联系，更安全<br/>
@@ -118,11 +118,11 @@ unseen适合苹果、安卓、平板、电脑终端<br/>
 <a href="https://mega.nz/">网页版mega网盘（需要翻墙）</a><br/>
 ◆藏人可用mega网盘安全分享<br/>
 ◆百度网盘被扫描监控请弃用<br/>
-  </tr>
-  <tr>    
+</tr>
+<tr>    
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
-  </tr>
-  <tr>
+</tr>
+<tr>
 <td align=center>好莱坞大片◆西藏七年◆<br/>
 了解西藏与达赖喇嘛真实的历史<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
